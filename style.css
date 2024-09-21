@@ -1,0 +1,89 @@
+
+/* #ibrahim h1{
+    position: relative;
+   left: 40px;
+    top: 40px; */ 
+    /* bottom: 0; */
+    /* right: 0; */
+    /* left: 0; */
+/* }
+.one p{
+    background-color: red;
+} */
+
+
+ /* #ibrahim h1{
+    position: relative;
+    top: 100px; */
+    /* margin-bottom: 100px;
+    background-color: red;
+     */
+    /* margin-bottom: 20px;  */
+
+/* #ibrahim h1{
+    position: relative;
+    bottom: 20px;
+    background-color: red;
+ } */
+
+ 
+
+
+/* .wrapper{
+    height: 1100px;
+}
+#box{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+#box .box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+#box .box2{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    position: relative;
+    margin-left: 100px;
+}
+#box .box3{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    /* left: 200px; */
+    
+
+    
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+  nav{
+    width: 100%;
+    display: flex;
+  }
+  .logo h3{
+    margin-left: 30px;
+  }
+  .join-button{
+    margin-right: 30px;
+  }
+  .links{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+    /* flex-direction: column; */
+  }
+  .links a{
+    text-decoration: none;
+  }
+  button{
+    padding-top: 10px; 20px
+  }
+  
